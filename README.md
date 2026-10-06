@@ -30,15 +30,52 @@
 
 ## Notebook links
 
-| Chapter | Member 1 | Member 2 |
-|---|---|---|
-| Ch1_2_3 | [link]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
-| Ch6 | [link]() | [link]() |
-| Ch7 | [link]() | [link]() |
-| Ch8 | [link]() | [link]() |
-| Ch9 | [link]() | [link]() |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Chapter</th>
+    <th>Alarcon, John Lee Keneth</th>
+    <th>Magbanua, Yna Bianca</th>
+  </tr>
+  <tr>
+    <td>Ch1_2_3</td>
+    <td><a href="">link</a></td>
+    <td><a href="">link</a></td>
+  </tr>
+  <tr>
+    <td>Ch4</td>
+    <td><a href="">link</a></td>
+    <td><a href="">link</a></td>
+  </tr>
+  <tr>
+    <td>Ch5</td>
+    <td><a href="">link</a></td>
+    <td><a href="">link</a></td>
+  </tr>
+  <tr>
+    <td>Ch6</td>
+    <td><a href="">link</a></td>
+    <td><a href="">link</a></td>
+  </tr>
+  <tr>
+    <td>Ch7</td>
+    <td><a href="">link</a></td>
+    <td><a href="">link</a></td>
+  </tr>
+  <tr>
+    <td>Ch8</td>
+    <td><a href="">link</a></td>
+    <td><a href="">link</a></td>
+  </tr>
+  <tr>
+    <td>Ch9</td>
+    <td><a href="">link</a></td>
+    <td><a href="">link</a></td>
+  </tr>
+</table>
+
+</div>
 
 <br>
 
