@@ -40,20 +40,28 @@
 | Ch8 | [link]() | [link]() |
 | Ch9 | [link]() | [link]() |
 
+<br>
+
 ## What we learned
 
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
+
+<br>
 
 ## Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
+<br>
+
 ## Note on AI tools
 
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
+
+<br>
 
 ## References
 
