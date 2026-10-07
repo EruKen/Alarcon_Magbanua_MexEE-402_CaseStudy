@@ -29,6 +29,48 @@
 <br>
 
 ## Notebook links
+<div align="center">
+
+<p><strong>The seven notebooks:</strong></p>
+
+<table align="center">
+  <tr>
+    <th>Notebook</th>
+    <th>Topic</th>
+  </tr>
+  <tr>
+    <td align="center">Ch1_2_3</td>
+    <td align="center">Introduction to preprocessing, exploring and cleaning data</td>
+  </tr>
+  <tr>
+    <td align="center">Ch4</td>
+    <td align="center">Transformation, feature engineering, and encoding</td>
+  </tr>
+  <tr>
+    <td align="center">Ch5</td>
+    <td align="center">Scaling and normalization</td>
+  </tr>
+  <tr>
+    <td align="center">Ch6</td>
+    <td align="center">Outlier detection</td>
+  </tr>
+  <tr>
+    <td align="center">Ch7</td>
+    <td align="center">Feature selection</td>
+  </tr>
+  <tr>
+    <td align="center">Ch8</td>
+    <td align="center">Constructing a preprocessing pipeline</td>
+  </tr>
+  <tr>
+    <td align="center">Ch9</td>
+    <td align="center">Full pipeline and visualization</td>
+  </tr>
+</table>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -104,5 +146,3 @@ Hiding it is.
 
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
 VanderPlas, J. Python Data Science Handbook.
-Any other page or article you used.
-
