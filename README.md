@@ -83,37 +83,37 @@
   <tr>
     <td>Ch1_2_3</td>
     <td><a href="">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="">https://colab.research.google.com/drive/12Tl-kVLfnLyNxWXVYf8Pkp4C5mvknpPO?usp=drive_link</a></td>
   </tr>
   <tr>
     <td>Ch4</td>
     <td><a href="">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="">https://colab.research.google.com/drive/1xWBBHXMZY97VFlOyZdTz2htUZDKfkJDD?usp=drive_link</a></td>
   </tr>
   <tr>
     <td>Ch5</td>
     <td><a href="">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="">https://colab.research.google.com/drive/1OFgqqMwe1aL9eVkynsAkX22UPeyDyzyA?usp=drive_link</a></td>
   </tr>
   <tr>
     <td>Ch6</td>
     <td><a href="">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="">https://colab.research.google.com/drive/1D5k0W_E3BtYN-1JXuyMgUWdVrPLkdyLk?usp=drive_link</a></td>
   </tr>
   <tr>
     <td>Ch7</td>
     <td><a href="">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="">https://colab.research.google.com/drive/1GcXDFECf3Y0_c0gumCqOj83yjg0IHlnw?usp=drive_link</a></td>
   </tr>
   <tr>
     <td>Ch8</td>
     <td><a href="">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="">https://colab.research.google.com/drive/1kuMBOJ_hso0arVVRuIztaFdrF8sMhoP7?usp=drive_link</a></td>
   </tr>
   <tr>
     <td>Ch9</td>
     <td><a href="">link</a></td>
-    <td><a href="">link</a></td>
+    <td><a href="">https://colab.research.google.com/drive/1EkMbCrr4IgvKapXhrrfg-ovF3J4ynqUm?usp=drive_link</a></td>
   </tr>
 </table>
 
