@@ -82,7 +82,7 @@
   </tr>
   <tr>
     <td>Ch1_2_3</td>
-    <td><a href="https://colab.research.google.com/github/MikkoDT/MexEE402_AI/blob/main/Blank_Ch1_2_3.ipynb">Chapter1-3</a></td>
+    <td><a href="https://colab.research.google.com/drive/1to-hx0h4uzF3Hftp8ge8mIpm5sptHRIO?usp=sharing">Chapter1-3</a></td>
     <td><a href="https://colab.research.google.com/drive/12Tl-kVLfnLyNxWXVYf8Pkp4C5mvknpPO?usp=drive_link">Chapter 1-3</a></td>
   </tr>
   <tr>
