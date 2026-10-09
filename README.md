@@ -82,33 +82,33 @@
   </tr>
   <tr>
     <td>Ch1_2_3</td>
-    <td><a href="https://colab.research.google.com/drive/1to-hx0h4uzF3Hftp8ge8mIpm5sptHRIO?usp=sharing">Chapter1-3</a></td>
-    <td><a href="https://colab.research.google.com/drive/12Tl-kVLfnLyNxWXVYf8Pkp4C5mvknpPO?usp=drive_link">Chapter 1-3</a></td>
+    <td><a href="https://colab.research.google.com/drive/1to-hx0h4uzF3Hftp8ge8mIpm5sptHRIO?usp=sharing">Chapter1-3_Keneth</a></td>
+    <td><a href="https://colab.research.google.com/drive/12Tl-kVLfnLyNxWXVYf8Pkp4C5mvknpPO?usp=drive_link">Chapter 1-3_Yna</a></td>
   </tr>
   <tr>
     <td>Ch4</td>
-    <td><a href="https://colab.research.google.com/drive/1NEYtdhFYrL1MMPUJv_2BFXua7gwtt1Pl?usp=sharing">Chapter4</a></td>
-    <td><a href="https://colab.research.google.com/drive/1xWBBHXMZY97VFlOyZdTz2htUZDKfkJDD?usp=drive_link">Chapter4</a></td>
+    <td><a href="https://colab.research.google.com/drive/1NEYtdhFYrL1MMPUJv_2BFXua7gwtt1Pl?usp=sharing">Chapter4_Keneth</a></td>
+    <td><a href="https://colab.research.google.com/drive/1xWBBHXMZY97VFlOyZdTz2htUZDKfkJDD?usp=drive_link">Chapter4_Yna</a></td>
   </tr>
   <tr>
     <td>Ch5</td>
-    <td><a href="https://colab.research.google.com/drive/1XgCC-EZ_HsuIJdKAvQ0H9ucM123DIgxN?usp=sharing">Chapter5</a></td>
-    <td><a href="https://colab.research.google.com/drive/1OFgqqMwe1aL9eVkynsAkX22UPeyDyzyA?usp=drive_link">Chapter5</a></td>
+    <td><a href="https://colab.research.google.com/drive/1XgCC-EZ_HsuIJdKAvQ0H9ucM123DIgxN?usp=sharing">Chapter5_Keneth</a></td>
+    <td><a href="https://colab.research.google.com/drive/1OFgqqMwe1aL9eVkynsAkX22UPeyDyzyA?usp=drive_link">Chapter5_Yna</a></td>
   </tr>
   <tr>
     <td>Ch6</td>
-    <td><a href="https://colab.research.google.com/drive/1z0ib1_GD5wflURuyQijIp3KaNWkiLjG4?usp=sharing">Chapter6</a></td>
-    <td><a href="https://colab.research.google.com/drive/1D5k0W_E3BtYN-1JXuyMgUWdVrPLkdyLk?usp=drive_link">Chapter6</a></td>
+    <td><a href="https://colab.research.google.com/drive/1z0ib1_GD5wflURuyQijIp3KaNWkiLjG4?usp=sharing">Chapter6_Keneth</a></td>
+    <td><a href="https://colab.research.google.com/drive/1D5k0W_E3BtYN-1JXuyMgUWdVrPLkdyLk?usp=drive_link">Chapter6_Yna</a></td>
   </tr>
   <tr>
     <td>Ch7</td>
-    <td><a href="https://colab.research.google.com/drive/1QBgaqWwjf_3GhWq1HJuYA4Z2rzPSU951?usp=sharing">Chapter7</a></td>
-    <td><a href="https://colab.research.google.com/drive/1GcXDFECf3Y0_c0gumCqOj83yjg0IHlnw?usp=drive_link">Chapter7</a></td>
+    <td><a href="https://colab.research.google.com/drive/1QBgaqWwjf_3GhWq1HJuYA4Z2rzPSU951?usp=sharing">Chapter7_Keneth</a></td>
+    <td><a href="https://colab.research.google.com/drive/1GcXDFECf3Y0_c0gumCqOj83yjg0IHlnw?usp=drive_link">Chapter7_Yna</a></td>
   </tr>
   <tr>
     <td>Ch8</td>
-    <td><a href="">link</a></td>
-    <td><a href="">https://colab.research.google.com/drive/1kuMBOJ_hso0arVVRuIztaFdrF8sMhoP7?usp=drive_link</a></td>
+    <td><a href="https://colab.research.google.com/drive/1e45kAbuCQuDfHESXXpL-KPnJcgJATFj9?usp=sharing">Chapter8_Keneth</a></td>
+    <td><a href="https://colab.research.google.com/drive/1kuMBOJ_hso0arVVRuIztaFdrF8sMhoP7?usp=drive_link">Chapter8_Yna</a></td>
   </tr>
   <tr>
     <td>Ch9</td>
