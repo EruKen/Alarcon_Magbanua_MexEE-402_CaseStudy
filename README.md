@@ -82,8 +82,8 @@
   </tr>
   <tr>
     <td>Ch1_2_3</td>
-    <td><a href="https://colab.research.google.com/drive/1to-hx0h4uzF3Hftp8ge8mIpm5sptHRIO?usp=sharing">Chapter1-3_Keneth</a></td>
-    <td><a href="https://colab.research.google.com/drive/12Tl-kVLfnLyNxWXVYf8Pkp4C5mvknpPO?usp=drive_link">Chapter 1-3_Yna</a></td>
+    <td><a href="https://colab.research.google.com/drive/1to-hx0h4uzF3Hftp8ge8mIpm5sptHRIO?usp=sharing">Chapter1-3_Keneth (correctedVersion)</a></td>
+    <td><a href="https://colab.research.google.com/drive/12Tl-kVLfnLyNxWXVYf8Pkp4C5mvknpPO?usp=drive_link">Chapter 1-3_Yna (defaultVersion)</a></td>
   </tr>
   <tr>
     <td>Ch4</td>
