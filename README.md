@@ -199,7 +199,7 @@ The original code uses data['Age'].dropna() for both histograms, meaning that th
 
 ## Note on AI tools
 
-Yes, We used an AI tool, specifically Claude, while working on the chapter questions, but only for the parts we could not understand just by looking at the notebook. We chose Claude because it is better at coding and explaining code, which helped a lot since the notebooks were full of Python and library functions. When the notebook’s explanation and code output were enough, we answered on my our own. We also asked Claude to explain them in simpler words. We then compared its explanations with the notebook outputs, such as the missing value counts and the Z-score result, and wrote our final answers and reflections ourselves.
+Yes, We used an AI tool, specifically Claude, while working on the chapter questions and finding the errors, but only for the parts we could not understand just by looking at the notebook. We chose Claude because it is better at coding and explaining code, which helped a lot since the notebooks were full of Python and library functions. When the notebook’s explanation and code output were enough, we answered on my our own. We also asked Claude to explain them in simpler words. We then compared its explanations with the notebook outputs, such as the missing value counts and the Z-score result, and wrote our final answers and reflections ourselves.
 
 <br>
 
