@@ -141,6 +141,20 @@ Overall, these chapters helped us understand that data preprocessing is an impor
 
 
 ## Errors we found
+### Chapter 1-3 
+  - In Chapter 1–3, there was an issue in the section on handling missing values in the Video Game Sales dataset. The following code was used to fill missing values in the Year and Publisher columns:
+
+df['Year'].fillna(df['Year'].mean(), inplace=True)
+df['Publisher'].fillna(df['Publisher'].mode()[0], inplace=True)
+
+The code replaces missing values in the Year column with the mean (average) year and missing values in the Publisher column with the most frequently occurring publisher (mode). This helps prevent missing data from interfering with data analysis. However, these lines may produce a FutureWarning in newer versions of Pandas because of the use of inplace=True on a DataFrame column. To avoid this warning, the code can be changed to:
+
+df['Year'] = df['Year'].fillna(df['Year'].mean())
+df['Publisher'] = df['Publisher'].fillna(df['Publisher'].mode()[0])
+
+The revised code assigns the results directly back to each column, making the operation more compatible with newer Pandas versions. After applying the changes, the missing values in both columns can be checked again using df.isnull().sum() to confirm that the imputation was successful. This improves data quality and prepares the dataset for the next preprocessing steps.
+
+
 **Chapter 6: Dealing with Outliers**
 
 **Error Code:**
