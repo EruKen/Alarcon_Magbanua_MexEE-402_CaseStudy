@@ -112,8 +112,8 @@
   </tr>
   <tr>
     <td>Ch9</td>
-    <td><a href="">link</a></td>
-    <td><a href="">https://colab.research.google.com/drive/1EkMbCrr4IgvKapXhrrfg-ovF3J4ynqUm?usp=drive_link</a></td>
+    <td><a href="https://colab.research.google.com/drive/19N0m1WiCb4pXoM1dY_U2O_gEcR2-IDbn?usp=sharing">Chapter9_Keneth</a></td>
+    <td><a href="https://colab.research.google.com/drive/1EkMbCrr4IgvKapXhrrfg-ovF3J4ynqUm?usp=drive_link">Chapter9_Yna</a></td>
   </tr>
 </table>
 
@@ -122,7 +122,7 @@
 <br>
 
 ## What we learned
-
+### -Yna
   When I started, I assumed data was ready to use the moment I opened it, but Chapter 1 hads taught me that raw data is often messy, with missing pieces and inconsistent details, and that it has to be checked and tidied before anyone can trust it. What surprised me most was that cleaning involves choices, not just rules. When we removed the biggest sellers as “outliers,” we also removed famous games, so I had to think about what I was really throwing away.
 
   Chapter 4 about Transformation and Feature Engineering, I learned that I can create new, useful information from what I already have. Dividing lemonade sold by temperature gave me a clearer picture than either one alone. What surprised me is that turning words into numbers needs care. If I labeled sunny, cloudy, and rainy as 1, 2, and 3, the computer would think rainy is “more” than sunny, even though they have no real order.
@@ -136,8 +136,23 @@
   I Chapter 8, I was amazed that a pipeline works like a conveyor belt, the same steps happen in the same order every time. Order matters, because you have to fill in the gaps before you adjust the sizes. What surprised me is that once the steps are set up, they can be reused on new data, which saves time and avoids mistakes.
 
   The last Chapter about Real-World Application, showed me how everything from the earlier chapters fits together on one real story, the Titanic passengers. What surprised me is that preprocessing is never really “done.” I have to keep checking my work, and even a chart can be mislabeled or show something different from what I expected. Making charts helped me see patterns, but it also helped me double-check myself.
+
+### -Keneth
+  The Chapter1-3 have many errors but was fixed, thanks to the help of AI as well some misunderstanding were clarified. The 
+
+  Chapter 4 about Transformation and Feature Engineering, I learned that feature engineering helps transform raw data into more useful features for machine learning. I learned how binning groups numerical values into categories, interaction features combine variables, and polynomial features help represent non-linear relationships. 
   
-<br>
+In Chapter 5, I learned that data scaling and normalization help make numerical features comparable by adjusting their values to a common scale. I learned that StandardScaler transforms data to have a mean of 0 and a standard deviation of 1, while MinMaxScaler() scales values between 0 and 1. Through the examples of study hours and grades, I understood how these techniques prevent differences in numerical ranges from unnecessarily affecting certain machine learning algorithms.
+
+While in Chapter 6, I learned that outliers are data points that differ significantly from most values in a dataset and can affect statistical analysis and machine learning results. I also learned how to detect outliers using the Z-score method, which measures how far a value is from the mean, and the IQR method, which uses the middle 50% of the data to identify unusually low or high values. I also learned different ways to handle outliers, such as capping and flooring, log transformation, and removing extreme values when appropriate. Overall, I learned that outliers should be carefully examined before handling them because they may represent errors or important information in the data.
+
+Moreover in Chapter 7, I learned that feature selection helps identify the most relevant features for predicting a target variable, such as a student's final grade. I learned how correlation measures relationships between variables and how filter methods, wrapper methods, and embedded methods select features in different ways. I also learned how Recursive Feature Elimination with Cross-Validation (RFECV) evaluates feature combinations and how Lasso regression selects important features by reducing less useful coefficients to zero.
+
+
+  In Chapter 8, I learned that a preprocessing pipeline automates the steps needed to prepare raw data for machine learning. Using the Titanic dataset, I learned how to separate features from the target variable, handle missing values using SimpleImputer, and standardize numerical features using StandardScaler. I also learned how Pipeline combines preprocessing steps and how ColumnTransformer applies those steps to specific columns, such as Age and Fare.
+
+  Lastly for the last Chapter about Real-World Application, I learned that data preprocessing is an important step in preparing real-world datasets for analysis and machine learning. Using the Titanic dataset, I practiced handling missing values, scaling numerical features, encoding categorical variables, and creating new features such as AgeGroup and FamilySize. I also learned how to combine preprocessing steps using Pipeline and ColumnTransformer to make the process more organized and consistent.
+
 
 ## Errors we found
 
