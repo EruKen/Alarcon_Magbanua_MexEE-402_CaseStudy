@@ -141,15 +141,65 @@ Overall, these chapters helped us understand that data preprocessing is an impor
 
 
 ## Errors we found
+**Chapter 6: Dealing with Outliers**
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
+**Error Code:**
+
+```python
+outliers = data[np.abs(z_scores) > 3]
+```
+
+**Corrected Code:**
+
+```python
+outliers = data[np.abs(z_scores) > 2]
+```
+
+The original code uses a Z-score threshold of 3, which identifies values more than three standard deviations from the mean. The corrected code uses a threshold of 2, making the outlier detection more sensitive and allowing more potential outliers to be identified. The threshold of 2 is appropriate if the objective is to detect values that are more than two standard deviations from the mean.
+
+**Chapter 7: Feature Selection**
+
+**Error Code:**
+
+```python
+selector = RFECV(estimator, step=1, cv=5)
+```
+
+**Corrected Code:**
+
+```python
+selector = RFECV(estimator, step=1, cv=3)
+```
+
+The original code uses five-fold cross-validation, while the corrected code uses three-fold cross-validation. The cv parameter determines how many folds the dataset is divided into during model evaluation. Changing it from 5 to 3 reduces the number of folds and changes how the model evaluates the selected features. This correction is valid if three-fold cross-validation is the intended setting for the activity.
+
+**Chapter 9: Real-World Application: Data Processing**
+
+**Error Code:**
+
+```python
+plt.hist(data['Age'].dropna(), alpha=0.5,
+         label='Before discretization')
+plt.hist(data['Age'].dropna(), alpha=0.5,
+         label='After discretization')
+```
+
+**Corrected Code:**
+
+```python
+plt.hist(titanic_preprocessed[:, 2], alpha=0.5,
+         label='After discretization')
+plt.hist(titanic_preprocessed[:, 0], alpha=0.5,
+         label='Before discretization')
+```
+
+The original code uses data['Age'].dropna() for both histograms, meaning that the same original Age data is plotted twice. Although the labels indicate before and after discretization, the actual data remains the same. The corrected code uses different columns from titanic_preprocessed to represent the data before and after discretization. However, this correction is accurate only if column 2 contains the discretized Age values and column 0 contains the original Age values. The column indices must be verified to ensure that the correct data is displayed.
 
 <br>
 
 ## Note on AI tools
 
-Yes, I used an AI tool, specifically Claude, while working on the chapter questions, but only for the parts I could not understand just by looking at the notebook. I chose Claude because it is better at coding and explaining code, which helped a lot since the notebooks were full of Python and library functions. When the notebook’s explanation and code output were enough, I answered on my own. I asked Claude to explain them in simpler words. I then compared its explanations with the notebook outputs, such as the missing value counts and the Z-score result, and wrote my final answers and reflections myself.
+Yes, We used an AI tool, specifically Claude, while working on the chapter questions, but only for the parts we could not understand just by looking at the notebook. We chose Claude because it is better at coding and explaining code, which helped a lot since the notebooks were full of Python and library functions. When the notebook’s explanation and code output were enough, we answered on my our own. We also asked Claude to explain them in simpler words. We then compared its explanations with the notebook outputs, such as the missing value counts and the Z-score result, and wrote our final answers and reflections ourselves.
 
 <br>
 
