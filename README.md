@@ -97,8 +97,8 @@
   </tr>
   <tr>
     <td>Ch6</td>
-    <td><a href="">link</a></td>
-    <td><a href="">https://colab.research.google.com/drive/1D5k0W_E3BtYN-1JXuyMgUWdVrPLkdyLk?usp=drive_link</a></td>
+    <td><a href="https://colab.research.google.com/drive/1z0ib1_GD5wflURuyQijIp3KaNWkiLjG4?usp=sharing">Chapter6</a></td>
+    <td><a href="https://colab.research.google.com/drive/1D5k0W_E3BtYN-1JXuyMgUWdVrPLkdyLk?usp=drive_link">Chapter6</a></td>
   </tr>
   <tr>
     <td>Ch7</td>
